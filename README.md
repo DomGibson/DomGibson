@@ -15,7 +15,7 @@ I started my story when I was introduced to computing at school. We had a range 
 After passing college, I was successful into getting a place in University. I had no intention of getting a degree or even wanted to get stuck with all the debt. My inital thoughts were to look into a better IT course. I already qualified for a University level course so they signed me up for it. 
 </p>
 
-![github]([https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white](https://res.cloudinary.com/practicaldev/image/fetch/s--chf73s-H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Linked_In-0077B5%3Fstyle%3Dfor-the-badge%26logo%3DLinkedIn%26logoColor%3Dwhite)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 <!---
 University was challenging but also opened a lot... I mean a lot of doors. We were learning Code, Web Design, Sciences, Logic, Cyber Security. The list can go further. But I gained a lot of knowledge and it has kept me in the industry! Unfortunately I did not proceed with the course after a while, I was granted an opportunity that I could
