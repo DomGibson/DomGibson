@@ -20,10 +20,6 @@ After passing college, I was successful into getting a place in University. I ha
 
 <div align="center">
     
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dom-gibson-2945b7198/)
-
-[![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DomGibson)
-    
 </div>
 
 <div align="center">
@@ -42,16 +38,13 @@ After passing college, I was successful into getting a place in University. I ha
 <br>
 <br>
 
-<div align="left">
+<div align="center">
     
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomGibson)](https://github.com/DomGibson)
-
-</div>
+<a href="https://github.com/DomGibson/github-readme-stats">
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomGibson"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DomGibson"/> 
+</a>    
     
-<div align="right" style="margin-top: ;">
-    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DomGibson)](https://github.com/DomGibson)
-
 </div>
 
 <!---
