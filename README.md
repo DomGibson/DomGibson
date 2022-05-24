@@ -15,7 +15,44 @@ I started my story when I was introduced to computing at school. We had a range 
 After passing college, I was successful into getting a place in University. I had no intention of getting a degree or even wanted to get stuck with all the debt. My inital thoughts were to look into a better IT course. I already qualified for a University level course so they signed me up for it. 
 </p>
 
+<br>
+<br>
+
+<div align="center">
+    
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dom-gibson-2945b7198/)
+
+[![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DomGibson)
+    
+</div>
+
+<div align="center">
+    <a href="https://www.childsey.com/">
+    <img src="https://uploads-ssl.webflow.com/61cecd3bf4dde0b7283e393d/61ced06ccea032ce2e2ee31b_Childsey%20LR.png" alt="Bespoke Web Development" title="CHILDSEY" width="200">
+</a>
+</div>
+
+<br>
+<br>
+
+<p>
+    Now working as a Full Stack/Web Developer for Childsey. A Web Design & Marketing agency based in Nantwich. My role is to design, create, develop and maintain websites for clients, as well as intergrate new features and discuss strategy to introduce outreach.
+</p>
+
+<br>
+<br>
+
+<div align="left">
+    
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomGibson)](https://github.com/DomGibson)
+
+</div>
+    
+<div align="right" style="margin-top: ;">
+    
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DomGibson)](https://github.com/DomGibson)
+
+</div>
 
 <!---
 University was challenging but also opened a lot... I mean a lot of doors. We were learning Code, Web Design, Sciences, Logic, Cyber Security. The list can go further. But I gained a lot of knowledge and it has kept me in the industry! Unfortunately I did not proceed with the course after a while, I was granted an opportunity that I could
