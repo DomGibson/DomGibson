@@ -20,6 +20,10 @@ After passing college, I was successful into getting a place in University. I ha
 
 <div align="center">
     
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dom-gibson-2945b7198/)
+
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/DomGibson/DomGibson)
+
 </div>
 
 <div align="center">
