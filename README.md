@@ -18,7 +18,6 @@ After passing college, I was successful into getting a place in University. I ha
 </p>
 
 <br>
-<br>
 
 <div align="center">
     
