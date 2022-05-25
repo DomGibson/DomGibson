@@ -7,7 +7,7 @@
     Who Am I?
 </h1>
 
-<p>
+<p align="center">
 Hello, My name is Dom, Short for Dominik. I am 20 Years of age at the time of me creating this. I have studied a few topics regarding web, development in general and also sciences in computing. 
 
 I started my story when I was introduced to computing at school. We had a range of topics to choose and I chose IT and Computer Science. However, I was fairly unlucky with my grade in Computing but managed to get a decent grade in IT. I have always wanted to venture out and learn code but never could wrap my head around it. It gave me ideas!
