@@ -8,10 +8,12 @@
 </h1>
 
 <p align="center">
-Hello, My name is Dom, Short for Dominik. I am 20 Years of age at the time of me creating this. I have studied a few topics regarding web, development in general and also sciences in computing. 
+Hello, My name is Dom, Short for Dominik. I am 20 Years of age at the time of me creating this. I have studied a few topics regarding web, development in general and also sciences in computing.</p>
 
-I started my story when I was introduced to computing at school. We had a range of topics to choose and I chose IT and Computer Science. However, I was fairly unlucky with my grade in Computing but managed to get a decent grade in IT. I have always wanted to venture out and learn code but never could wrap my head around it. It gave me ideas!
+<p align="center">
+I started my story when I was introduced to computing at school. We had a range of topics to choose and I chose IT and Computer Science. However, I was fairly unlucky with my grade in Computing but managed to get a decent grade in IT. I have always wanted to venture out and learn code but never could wrap my head around it. It gave me ideas!</p>
 
+<p align="center">
 After passing college, I was successful into getting a place in University. I had no intention of getting a degree or even wanted to get stuck with all the debt. My inital thoughts were to look into a better IT course. I already qualified for a University level course so they signed me up for it. 
 </p>
 
