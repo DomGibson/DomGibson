@@ -27,12 +27,6 @@ After passing college, I was successful into getting a place in University. I ha
 
 </div>
 
-<div align="center">
-    <a href="https://www.childsey.com/">
-    <img src="https://uploads-ssl.webflow.com/61cecd3bf4dde0b7283e393d/61ced06ccea032ce2e2ee31b_Childsey%20LR.png" alt="Bespoke Web Development" title="CHILDSEY" width="200">
-</a>
-</div>
-
 <br>
 <br>
 
