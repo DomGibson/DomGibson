@@ -31,7 +31,7 @@ After passing college, I was successful into getting a place in University. I ha
 <br>
 
 <p align="center">
-    Now working as a Full Stack/Web Developer for Childsey. A Web Design & Marketing agency based in Nantwich. My role is to design, create, develop and maintain websites for clients, as well as intergrate new features and discuss strategy to introduce outreach.
+Currently designing own business model. Self-Employed and ready to learn and teach with DiGiT Solutions.
 </p>
 
 <br>
