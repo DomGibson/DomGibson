@@ -30,6 +30,17 @@ After passing college, I was successful into getting a place in University. I ha
 <br>
 <br>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/DomGibson"
+  width="600"
+  height="300"
+/>
+</a>
+
+<br>
+<br>
+
 <p align="center">
 Currently designing own business model. Self-Employed and ready to learn and teach with DiGiT Solutions.
 </p>
