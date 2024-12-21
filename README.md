@@ -30,13 +30,15 @@ After passing college, I was successful into getting a place in University. I ha
 <br>
 <br>
 
-<a align="center" href="https://github.com/devxb/gitanimals">
+<div align="center">
+<a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/DomGibson"
   width="600"
   height="300"
 />
 </a>
+</div>
 
 <br>
 <br>
